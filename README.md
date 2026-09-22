@@ -52,22 +52,10 @@ Various smaller projects involving:
 * automation
 * random ideas that may or may not deserve to exist
 
-some survived.
-
-most did not.
-
 ## 🧠 currently interested in
 
-trying to become annoyingly good at understanding how things actually work.
-
-right now that means:
-
-* cybersecurity & platform security
-* networking
-* backend development
-* automation
-* system architecture
-* learning technologies without immediately pretending i'm an expert in them
+you can always ask me what i'm currently learning/building, don't be shy :)
+trying to become good at understanding how things actually work, or at least familiar with them.
 
 ## 🧰 tech i've touched
 
@@ -87,9 +75,11 @@ MySQL · SQLite · Git · GitHub · Docker · Azure
 
 Linux · Windows · Networking · Endpoint Security · CCNA fundamentals
 
-and yes, i also have Photoshop, Illustrator, Premiere and Blender in here.
+and yeah, i also have Photoshop, Illustrator, Premiere and Blender somewhere in there.
 
-not everything has to be backend engineering.
+i'm pretty sure there are more, but these are the ones that vividly came to mind.
+again, feel free to ask me what else i've worked with.
+
 
 ## 📫 find me here
 
@@ -98,9 +88,6 @@ not everything has to be backend engineering.
 * 📄 Resume: [CV](https://docs.google.com/document/d/1T5NYMuMVgyvUPgl23H-Q3m1YyWEkHHjssqxrvKG0ROU/edit?usp=sharing)
 
 ---
-
-> learning by building, breaking, fixing, repeating.
-
 and if you're a recruiter who somehow ended up here:
 
 **hi. yes, i'm looking for a job. pls hire me.**
