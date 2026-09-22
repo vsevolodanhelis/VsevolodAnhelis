@@ -85,7 +85,7 @@ again, feel free to ask me what else i've worked with.
 
 * 📧 Email: [sevaanhelis@gmail.com](mailto:sevaanhelis@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/vsevolod-anhelis-5070b0356](https://www.linkedin.com/in/vsevolod-anhelis-5070b0356/)
-* 📄 Resume: [https://docs.google.com/document/d/18J66oQAcMNeJkdc8rAZDmsTjxb7DdksH6Y6-r62wsPk/edit?usp=sharing]([https://docs.google.com/document/d/1T5NYMuMVgyvUPgl23H-Q3m1YyWEkHHjssqxrvKG0ROU/edit?usp=sharing](https://docs.google.com/document/d/18J66oQAcMNeJkdc8rAZDmsTjxb7DdksH6Y6-r62wsPk/edit?usp=sharing))
+* 📄 Resume: [https://docs.google.com/document/d/18J66oQAcMNeJkdc8rAZDmsTjxb7DdksH6Y6-r62wsPk/edit?usp=sharing]([https://docs.google.com/document/d/1T5NYMuMVgyvUPgl23H-Q3m1YyWEkHHjssqxrvKG0ROU/edit?usp=sharing])
 
 ---
 and if you're a recruiter who somehow ended up here:
