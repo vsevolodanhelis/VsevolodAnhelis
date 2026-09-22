@@ -92,4 +92,4 @@ and if you're a recruiter who somehow ended up here:
 
 **hi. yes, i'm looking for a job. pls hire me.**
 
-just maybe read the CV first.
+just maybe read the Resume first.
