@@ -2,7 +2,7 @@
 
 yeah, i'm a Computer Science graduate.
 
-somehow they actually gave me a degree, so i guess this is the part where i'm supposed to become a responsible IT guy.
+somehow they actually gave me a degree, so i guess this is the part where i'm supposed to become a responsible IT guy now.
 
 for now, i'm mostly building stuff, breaking stuff, fixing it, and occasionally wondering why it worked in the first place.
 
